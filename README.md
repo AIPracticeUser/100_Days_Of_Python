@@ -1,8 +1,8 @@
 # Course Name: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-### Course Provider: Udemy
-### Instructor : Dr. Angela Yu
-### Website : https://www.udemy.com/course/100-days-of-code/
-### Day 42 HTML CV : https://aipracticeuser.github.io/100_Days_Of_Python/Day41%20&%2042%20-HTML/
+Course Provider: Udemy
+Instructor : Dr. Angela Yu
+Website : https://www.udemy.com/course/100-days-of-code/
+Day 42 HTML CV : https://aipracticeuser.github.io/100_Days_Of_Python/Day41%20&%2042%20-HTML/
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1- Band Name Generator
 - Generate Band Name based on your City and Pet Name
