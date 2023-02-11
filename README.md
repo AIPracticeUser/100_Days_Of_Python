@@ -11,3 +11,8 @@ Day 42 HTML CV : https://aipracticeuser.github.io/100_Days_Of_Python/Day41%20&%2
 ![image](https://user-images.githubusercontent.com/100339175/217744460-855dccf1-bcaa-4c01-b52c-f4692974cb40.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+## Day 2- Tips Calculator 
+- Calculate tips based on total bill, tips to be given, and number of people to split the bill.
+- AIM: Understanding different types of Data Types and How to do String Manipulation
+
+![image](https://user-images.githubusercontent.com/100339175/218247260-f11cece2-8902-4a36-bbab-071e8e74ca26.png)
