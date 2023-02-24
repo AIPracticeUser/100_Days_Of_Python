@@ -20,3 +20,12 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 - AIM: Understanding different types of Data Types and How to do String Manipulation
 
 ![image](https://user-images.githubusercontent.com/100339175/218247260-f11cece2-8902-4a36-bbab-071e8e74ca26.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+## Day 3- Treasure Island
+- Mini word game that depending on the option chosen by the user
+- AIM: Conditional Statements, Logical Operators, Code Blocks and Scope
+
+![image](https://user-images.githubusercontent.com/100339175/221100886-ad4c618a-180d-46b1-a5f7-a015f14a28cb.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------
