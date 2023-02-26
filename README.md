@@ -32,14 +32,14 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 ## Day 3- Paper, Scissors, Stone
 - Mini game of the traditional paper, scissors, stone
 - AIM: Understanding randomization and Lists
-- 
+
 +++++++++++++++++++++++++++++++++++++
 - Module: random — Generate pseudo-random numbers (https://docs.python.org/3/library/random.html)
 - Snytax : randint(start, end)
 - Parameters: (start, end) : Both of them must be integer type values.
 - Returns: A random integer in range [start, end] including the end points.
 - Example: r1 = random.randint(0, 10) - Returns a number from 0 to 10
-- 
+
 +++++++++++++++++++++++++++++++++++++
 - Python Lists 
 - Lists are used to store multiple items in a single variable.
