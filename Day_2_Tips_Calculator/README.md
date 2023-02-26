@@ -15,4 +15,6 @@ Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 
 
 Example 
+
+
 ![image](https://user-images.githubusercontent.com/100339175/218247260-f11cece2-8902-4a36-bbab-071e8e74ca26.png)
