@@ -47,3 +47,11 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 - List items are indexed, the first item has index [0], the second item has index [1] etc.
 - Example: mylist = ["apple", "banana", "cherry"] 
 
++++++++++++++++++++++++++++++++++++++
+- Combine List and random module.choice()
+- The choice() method returns a randomly selected element from the specified sequence.
+- Example: mylist = ["apple", "banana", "cherry"]
+- print(random.choice(mylist))
+
++++++++++++++++++++++++++++++++++++++
+
