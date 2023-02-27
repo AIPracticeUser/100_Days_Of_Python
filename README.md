@@ -21,3 +21,6 @@ https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_3-Treasure-Is
 https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_4-Paper%2CSicssors%2CStone
 
 ## Day 5- Password Generator
+![image](https://user-images.githubusercontent.com/100339175/221462801-ac37e907-ec5f-4290-b9de-c6bd8abf4c67.png)
+![image](https://user-images.githubusercontent.com/100339175/221463080-c7e1f8e5-7ce4-4830-9210-c92aa75ecfdf.png)
+
