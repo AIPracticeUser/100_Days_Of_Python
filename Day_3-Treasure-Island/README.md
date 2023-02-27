@@ -13,7 +13,9 @@
 - Greater than: a > b
 - Greater than or equal to: a >= b
 
-###If Else Condition Example
+### If Else Condition Example
+- elif : if the previous conditions were not true, then try the current condition
+- else : The else keyword catches anything which isn't caught by the preceding conditions.
 ```
 a = 200
 b = 33
