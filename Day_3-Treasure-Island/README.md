@@ -14,7 +14,7 @@
 - Greater than or equal to: a >= b
 
 ###If Else Condition Example
-'''
+```
 a = 200
 b = 33
 if b > a:
@@ -23,4 +23,4 @@ elif a == b:
   print("a and b are equal")
 else:
   print("a is greater than b")
-'''
+```
