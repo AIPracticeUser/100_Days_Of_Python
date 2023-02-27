@@ -1,7 +1,7 @@
 ## Password Generator
 - Aim: For loop and Range 
 
-Instructions
+### Instructions
 
 The program will ask:
 
