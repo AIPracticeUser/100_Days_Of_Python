@@ -18,6 +18,6 @@ https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_2_Tips_Calcul
 https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_3-Treasure-Island
 
 ## Day 4- Paper, Scissors, Stone
-
+https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_4-Paper%2CSicssors%2CStone
 
 
