@@ -9,17 +9,10 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1- Band Name Generator
-- Generate Band Name based on your City and Pet Name
-- AIM: Basic python codes such as printing, inputting, commenting, debugging, name errors, syntax erros, string manipulation, variables.
+https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_1_Band_Name_Generator
 
-![image](https://user-images.githubusercontent.com/100339175/217744460-855dccf1-bcaa-4c01-b52c-f4692974cb40.png)
-
--------------------------------------------------------------------------------------------------------------------------------------
 ## Day 2- Tips Calculator 
-- Calculate tips based on total bill, tips to be given, and number of people to split the bill.
-- AIM: Understanding different types of Data Types and How to do String Manipulation
 
-![image](https://user-images.githubusercontent.com/100339175/218247260-f11cece2-8902-4a36-bbab-071e8e74ca26.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Day 3- Treasure Island
