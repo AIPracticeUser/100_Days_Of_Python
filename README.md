@@ -8,7 +8,7 @@ Day 42 HTML CV : https://aipracticeuser.github.io/100_Days_Of_Python/Day41%20&%2
 Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44-Inter%20CSS/
 
 -------------------------------------------------------------------------------------------------------------------------------------
-Final Projects Link
+## Final Projects Link
 ## Day 1- Band Name Generator
 https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_1_Band_Name_Generator
 
