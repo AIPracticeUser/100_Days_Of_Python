@@ -23,3 +23,5 @@ https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_4-Paper%2CSic
 ## Day 5- Password Generator
 https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_5-Password%20Generator
 
+## Day 6- Escaping the maze
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
