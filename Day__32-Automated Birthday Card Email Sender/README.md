@@ -62,5 +62,7 @@ Hence need to use df.to_dict(orient="records")
 Example of email received
 
 ![image](https://user-images.githubusercontent.com/100339175/222682392-bed08842-c3db-4c94-a6e6-e8ede599b11d.png)
+![image](https://user-images.githubusercontent.com/100339175/222682801-509be8a5-21da-4b00-8723-cca8cdef35f1.png)
+
 
 
