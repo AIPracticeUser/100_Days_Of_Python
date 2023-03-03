@@ -60,6 +60,7 @@ results:
 [{'name': 'Test', 'email': 'test@email.com', 'year': 1961, 'month': 12, 'day': 21}, {'name': 'test2', 'email': 'test2@email.com', 'year': 1942, 'month': 3, 'day': 3}]
 
 Example of email received
+
 ![image](https://user-images.githubusercontent.com/100339175/222682392-bed08842-c3db-4c94-a6e6-e8ede599b11d.png)
 
 
