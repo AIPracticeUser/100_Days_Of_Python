@@ -26,3 +26,6 @@ https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_5-Password%20
 
 ## Day 6- Escaping the maze
 https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+## Day 32 - Birthday Emails Sender
+https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
