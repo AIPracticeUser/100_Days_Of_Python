@@ -1,5 +1,6 @@
 ## Day 32- Automated Birthday Card Email
 AIM: Email SMTP and datetime module
+
 File : mywork.py
 
 
