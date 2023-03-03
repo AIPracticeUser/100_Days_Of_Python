@@ -51,4 +51,15 @@ File : mywork.py
 
 ## Automated Birthday Card Email project
 file: mywork.py
+### Note
+#Purely using to_dict() method will only return the column name
+results:
+{'name': {0: 'Test', 1: 'test2'}, 'email': {0: 'test@email.com', 1: 'test2@email.com'}, 'year': {0: 1961, 1: 1942}, 'month': {0: 12, 1: 3}, 'day': {0: 21, 1: 3}}
+
+# Hence need to use df.to_dict(orient="records")
+[{'name': 'Test', 'email': 'test@email.com', 'year': 1961, 'month': 12, 'day': 21}, {'name': 'test2', 'email': 'test2@email.com', 'year': 1942, 'month': 3, 'day': 3}]
+
+Example of email received
+![image](https://user-images.githubusercontent.com/100339175/222682392-bed08842-c3db-4c94-a6e6-e8ede599b11d.png)
+
 
