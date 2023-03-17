@@ -1,9 +1,7 @@
 ## Hangman Game
 - Aim: Complete Challenges and Familiarize with Random Module
 
-### Instructions
-
-The program will ask:
+### Rules of Game
 
 Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, there are now electronic versions.
 
@@ -32,6 +30,7 @@ for word in chosen_word:
     print("Wrong")
 ```
 RESULT: 
+
 ![image](https://user-images.githubusercontent.com/100339175/226020939-5ff13fbf-04fa-4b33-a298-e55e12c2b9fc.png)
 
 
@@ -69,4 +68,5 @@ for position in range(word_len):
 print(display)
 ```
 RESULT:
+
 ![image](https://user-images.githubusercontent.com/100339175/226029769-d8f6bb45-35be-411e-a4eb-74283e1efd70.png)
