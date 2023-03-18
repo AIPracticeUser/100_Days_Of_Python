@@ -1,4 +1,6 @@
 Rock Paper Scissors
+
+Completed Program link: https://replit.com/@LightGamer1/Scissors-Paper-Stone?v=1
 - Mini game of the traditional paper, scissors, stone
 - AIM: Understanding randomization and Lists
 
