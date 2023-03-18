@@ -1,5 +1,5 @@
 ## Hangman Game
-Completed program link: https://replit.com/@LightGamer1/Day-7-Hangman-5-Start#main.py
+Completed program link: https://replit.com/@LightGamer1/Day-7-Hangman-Completed?v=1
 
 - Aim: Complete Challenges and Familiarize with Random Module
 
