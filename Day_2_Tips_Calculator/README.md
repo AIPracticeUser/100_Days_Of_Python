@@ -1,4 +1,5 @@
 Tip Calculator
+
 Complete Program Link: https://replit.com/@LightGamer1/TipsCalculator?v=1
 
 - Calculate tips based on total bill, tips to be given, and number of people to split the bill.
