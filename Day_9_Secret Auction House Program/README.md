@@ -1,6 +1,8 @@
 # Secret Auction House Program
 Silent Auction House which gets every person's name and bid amount and store them in a dictionary. 
+
 The program will ask if there is any more bidder, press yes to contiune, no to finalize the auction bidding
+
 The auction bidding will declare the winner with the bid amount
 
 ## Aim: Dictionary
