@@ -57,6 +57,7 @@ Program Link: https://replit.com/@LightGamer1/blind-auction-start?v=1
 ## Day 10 - Calculator
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_10_Calculator
 
+Program Link: https://replit.com/@LightGamer1/calculator-start?v=1
 
 ## Day 32 - Birthday Emails Sender
 GitHub Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
