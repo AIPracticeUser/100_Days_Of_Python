@@ -44,3 +44,15 @@ def describe(sample):
 - Calculate the number of days depends on the input year and month. If leap year, there's 29 days in Feb.
 
 Solution link: https://replit.com/@LightGamer1/Day10Days-in-Month?v=1
+
+### DocString
+- Python docstrings are strings used right after the definition of a function, method, class, or module (like in Example 1). They are used to document our code.
+- Different from comments, comments are descriptions that help programmers better understand the intent and functionality of the program. 
+
+![image](https://user-images.githubusercontent.com/100339175/226173653-db9ca025-f242-424f-ab22-2d7396ec9c90.png)
+
+- usage of .___doc___ to call out the docstring
+- print(square.__doc__)
+
+
+
