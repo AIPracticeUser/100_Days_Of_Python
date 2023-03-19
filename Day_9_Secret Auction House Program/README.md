@@ -1,4 +1,8 @@
 # Secret Auction House Program
+Silent Auction House which gets every person's name and bid amount and store them in a dictionary. 
+The program will ask if there is any more bidder, press yes to contiune, no to finalize the auction bidding
+The auction bidding will declare the winner with the bid amount
+
 ## Aim: Dictionary
 
 ## Dictionary
@@ -186,8 +190,16 @@ Working Solution: https://replit.com/@LightGamer1/Day9Exercise2?v=1
 
 ### Secret Auction House
 
+Silent Auction House which gets every person's name and bid amount and store them in a dictionary. 
+The program will ask if there is any more bidder, press yes to contiune, no to finalize the auction bidding
+The auction bidding will declare the winner with the bid amount
+
 Work Flow:
 
+
 ![image](https://user-images.githubusercontent.com/100339175/226159503-f802b0c2-0fca-4dfa-877f-16334f7ddee7.png)
+
+Working Solution: https://replit.com/@LightGamer1/blind-auction-start?v=1
+
 
 
