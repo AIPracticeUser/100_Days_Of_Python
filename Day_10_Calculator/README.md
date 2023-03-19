@@ -52,7 +52,9 @@ Solution link: https://replit.com/@LightGamer1/Day10Days-in-Month?v=1
 ![image](https://user-images.githubusercontent.com/100339175/226173653-db9ca025-f242-424f-ab22-2d7396ec9c90.png)
 
 - usage of .___doc___ to call out the docstring
-- print(square.__doc__)
+```
+print(square.__doc__)
+```
 
 
 
