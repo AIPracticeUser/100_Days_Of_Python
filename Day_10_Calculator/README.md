@@ -1,6 +1,7 @@
 # Calculator Program
 
 ## LESSON: Functions with Output and Docstring
+Working solution - https://replit.com/@LightGamer1/calculator-start?v=1
 ### Functions with output
 - The Python return statement is a special statement that you can use inside a function or method to send the function’s result back to the caller.
 - A return statement consists of the return keyword followed by an optional return value.
@@ -55,6 +56,62 @@ Solution link: https://replit.com/@LightGamer1/Day10Days-in-Month?v=1
 ```
 print(square.__doc__)
 ```
+
+### Calculator 
+- First step (Adding basic calculator functions)
+```
+def add(n1,n2):
+  return n1 + n2
+
+#Subtract
+def subtract(n1,n2):
+  return n1 - n2
+
+#Multiply
+def multiply(n1,n2):
+  return n1 * n2
+
+#Divide
+def divide(n1,n2):
+  return n1 / n2
+
+operations = {
+  "+": add,
+  "-": subtract,
+  "*": multiply,
+  "/": divide
+}
+
+num1 = int(input("What's the first number?: "))
+for symbol in operations:
+  print(symbol)
+operation_symbol = input("Pick an operation from the line above: ")
+num2 = int(input("What's the second number?: "))
+calculation_function = operations[operation_symbol]
+answer = calculation_function(num1, num2)
+
+print(f"{num1} {operation_symbol} {num2} = {answer}")
+```
+
+- Second Step (Adding Recursive Function for further operations)
+```
+def contiune_operation(first_num):
+  """
+  input: first_num (int)
+  function: Perform calculation based on user's selection
+  output: answer (int)
+  """
+  next_operation = input("Pick an operation: ")
+  second_num = int(input("What's the next number?: "))
+  calculation_function = operations[next_operation]
+  answer = calculation_function(first_num, second_num)
+  print(f"{first_num} {next_operation} {second_num} = {answer}")
+  return answer
+  
+```
+
+- Final Step - (Fixing bugs, looping, adding logo)
+Working solution - https://replit.com/@LightGamer1/calculator-start?v=1
 
 
 
