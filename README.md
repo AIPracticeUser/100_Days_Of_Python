@@ -11,38 +11,47 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 ## Final Projects Link
 ## Day 1- Band Name Generator
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_1_Band_Name_Generator
+
 Program Link: https://replit.com/@LightGamer1/Band-Name-Generator?v=1
 
 ## Day 2- Tips Calculator 
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_2_Tips_Calculator
+
 Program Link: https://replit.com/@LightGamer1/TipsCalculator?v=1
 
 ## Day 3- Treasure Island
 Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_3-Treasure-Island
+
 Program Link: https://replit.com/@LightGamer1/Treasure-Island?v=1
 
 ## Day 4- Paper, Scissors, Stone
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_4-Paper%2CSicssors%2CStone
+
 Program Link: https://replit.com/@LightGamer1/Scissors-Paper-Stone?v=1
 
 ## Day 5- Password Generator
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_5-Password%20Generator
+
 Program Link: https://replit.com/@LightGamer1/Password-Generator?v=1
 
 ## Day 6- Escaping the maze
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_6-Escaping%20the%20maze
+
 Program Link: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
 
 ## Day 7 - Hangman Game
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_7_Hangman_Game
+
 Program Link: https://replit.com/@LightGamer1/Day-7-Hangman-Completed?v=1
 
 ## Day 8 - Caesar Cipher
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_8_Caesar%20Cipher
+
 Program Link: https://replit.com/@LightGamer1/caesar-cipher-4-start?v=1
 
 ## Day 9 - Secret Auction House Program
 Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_9_Secret%20Auction%20House%20Program
+
 Program Link: https://replit.com/@LightGamer1/blind-auction-start?v=1
 
 ## Day 32 - Birthday Emails Sender
