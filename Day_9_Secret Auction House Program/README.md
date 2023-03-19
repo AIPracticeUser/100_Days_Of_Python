@@ -116,3 +116,54 @@ thisdict = {
 }
 thisdict.update({"year": 2020})
 ```
+
+### Exercise 1
+Solution link: https://replit.com/@LightGamer1/Day9Exercise-1?v=1
+
+### Nested Dictionaries
+A dictionary can contain dictionaries, this is called nested dictionaries.
+```
+#Create a dictionary that contain three dictionaries:
+myfamily = {
+  "child1" : {
+    "name" : "Emil",
+    "year" : 2004
+  },
+  "child2" : {
+    "name" : "Tobias",
+    "year" : 2007
+  },
+  "child3" : {
+    "name" : "Linus",
+    "year" : 2011
+  }
+}
+```
+Create three dictionaries, then create one dictionary that will contain the other three dictionaries:
+```
+child1 = {
+  "name" : "Emil",
+  "year" : 2004
+}
+child2 = {
+  "name" : "Tobias",
+  "year" : 2007
+}
+child3 = {
+  "name" : "Linus",
+  "year" : 2011
+}
+
+myfamily = {
+  "child1" : child1,
+  "child2" : child2,
+  "child3" : child3
+}
+```
+
+### Access Items in Nested Dictionaries
+To access items from a nested dictionary, you use the name of the dictionaries, starting with the outer dictionary:
+
+```
+print(myfamily["child2"]["name"])
+```
