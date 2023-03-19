@@ -13,7 +13,7 @@ Day 44 CSS PortFolio: https://aipracticeuser.github.io/100_Days_Of_Python/Day-44
 https://replit.com/@LightGamer1/Band-Name-Generator?v=1
 
 ## Day 2- Tips Calculator 
-https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_2_Tips_Calculator
+[https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_2_Tips_Calculator](https://replit.com/@LightGamer1/TipsCalculator?v=1)
 
 ## Day 3- Treasure Island
 https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_3-Treasure-Island
