@@ -180,3 +180,8 @@ print(myfamily["child2"]["name"])
 - setdefault()	Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
 - update()	Updates the dictionary with the specified key-value pairs
 - values()	Returns a list of all the values in the dictionary
+
+### Exercise 2 (Adding new travel log in the form of nested dictionaries in a list)
+Working Solution: https://replit.com/@LightGamer1/Day9Exercise2?v=1
+
+
