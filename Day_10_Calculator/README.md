@@ -1,6 +1,6 @@
 # Calculator Program
 
-# LESSON: Functions with Output and Docstring
+## LESSON: Functions with Output and Docstring
 ### Functions with output
 - The Python return statement is a special statement that you can use inside a function or method to send the function’s result back to the caller.
 - A return statement consists of the return keyword followed by an optional return value.
