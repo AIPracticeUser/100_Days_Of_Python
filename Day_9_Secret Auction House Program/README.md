@@ -184,4 +184,10 @@ print(myfamily["child2"]["name"])
 ### Exercise 2 (Adding new travel log in the form of nested dictionaries in a list)
 Working Solution: https://replit.com/@LightGamer1/Day9Exercise2?v=1
 
+### Secret Auction House
+
+Work Flow:
+
+![image](https://user-images.githubusercontent.com/100339175/226159503-f802b0c2-0fca-4dfa-877f-16334f7ddee7.png)
+
 
