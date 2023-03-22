@@ -63,4 +63,3 @@ print(x)
 
 https://replit.com/@LightGamer1/guess-the-number-start?v=1
 
-https://replit.com/@LightGamer1/guess-the-number-start?v=1
