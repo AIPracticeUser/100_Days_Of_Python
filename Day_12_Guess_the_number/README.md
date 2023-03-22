@@ -61,5 +61,10 @@ print(x)
 - Guess a number from 1 to 100 before the number of tries over
 - Allow user to select the game difficulty (Easy 10 tries, Hard 5 tries)
 
+![image](https://user-images.githubusercontent.com/100339175/226824804-4dcc68ab-322b-4b92-856b-d115af177c92.png)
+
+![image](https://user-images.githubusercontent.com/100339175/226827269-c236b541-cef8-4672-9e11-b503f1a8f172.png)
+
+
 https://replit.com/@LightGamer1/guess-the-number-start?v=1
 
