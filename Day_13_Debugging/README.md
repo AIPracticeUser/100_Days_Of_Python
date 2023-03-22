@@ -64,3 +64,46 @@ def mutate(a_list):
 mutate([1,2,3,5,8,13])
 ```
 - Problem detected: Indentation is incorrect with b_list.append and print()
+
+### 7
+```
+number = int(input("Which number do you want to check?"))
+
+if number % 2 = 0:
+  print("This is an even number.")
+else:
+  print("This is an odd number.")
+
+```
+- Problem detected: the if statement should be '==' instead of '='
+
+### 8
+```
+year = input("Which year do you want to check?")
+
+if year % 4 == 0:
+  if year % 100 == 0:
+    if year % 400 == 0:
+      print("Leap year.")
+    else:
+      print("Not leap year.")
+  else:
+    print("Leap year.")
+else:
+  print("Not leap year.")
+```
+-Problem detected: year input should be integer instead of string
+
+### 9
+```
+for number in range(1, 101):
+  if number % 3 == 0 or number % 5 == 0:
+    print("FizzBuzz")
+  if number % 3 == 0:
+    print("Fizz")
+  if number % 5 == 0:
+    print("Buzz")
+  else:
+    print([number])
+```
+-Problem detected: For seperate if else conditon, it should be "elif" , not "if"
