@@ -59,6 +59,9 @@ Github Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_
 
 Program Link: https://replit.com/@LightGamer1/calculator-start?v=1
 
+## Day 12 - Guess Number Game
+GIthub Link - https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_12_Guess_the_number
+
 ## Day 32 - Birthday Emails Sender
 GitHub Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
 
