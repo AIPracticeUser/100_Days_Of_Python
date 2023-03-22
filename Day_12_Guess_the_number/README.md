@@ -1,4 +1,5 @@
 # Guess the number game
+## Link: https://replit.com/@LightGamer1/guess-the-number-start?v=1
 ## LESSON: LOCAL SCOPE vs GLOBAL SCOPE
 
 A variable is only available from inside the region it is created. This is called scope.
@@ -56,3 +57,10 @@ myfunc()
 
 print(x)
 ```
+### Number Guessing Game
+- Guess a number from 1 to 100 before the number of tries over
+- Allow user to select the game difficulty (Easy 10 tries, Hard 5 tries)
+
+https://replit.com/@LightGamer1/guess-the-number-start?v=1
+
+https://replit.com/@LightGamer1/guess-the-number-start?v=1
