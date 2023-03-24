@@ -25,3 +25,8 @@
 - Auto-complete feature increases the difficulty for beginners
 - Can lag on some browsers
 - High demand for storage space
+
+### Pycharm Key Shortcut
+https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
+
+
