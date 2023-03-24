@@ -103,4 +103,5 @@ b. Once all resources have been deducted, tell the user “Here is your latte. E
 latte was their choice of drink.
 
 Own Working Solution: https://replit.com/@LightGamer1/coffee-machine-start?v=1
+
 Trainer Solution: https://replit.com/@LightGamer1/coffee-machine-final?v=1
