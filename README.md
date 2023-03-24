@@ -65,7 +65,9 @@ GIthub Link - https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day
 Program Link: https://replit.com/@LightGamer1/guess-the-number-start?v=1
 
 ## Day 13 - Debugging
-Github Link : 
+Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_13_Debugging
+
+Program Link : 
 
 ## Day 32 - Birthday Emails Sender
 GitHub Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
