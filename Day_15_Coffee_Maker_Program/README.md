@@ -1,5 +1,7 @@
 # Coffee_Maker
 
+### Working Solution : https://replit.com/@LightGamer1/coffee-machine-start?v=1
+
 ### What is IDE
 
 - An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application. Just as writers use text editors and accountants use spreadsheets, software developers use IDEs to make their job easier.
@@ -99,3 +101,6 @@ coffee machine resources.
 
 b. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If
 latte was their choice of drink.
+
+Own Working Solution: https://replit.com/@LightGamer1/coffee-machine-start?v=1
+Trainer Solution: https://replit.com/@LightGamer1/coffee-machine-final?v=1
