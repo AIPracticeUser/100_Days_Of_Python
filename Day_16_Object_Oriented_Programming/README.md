@@ -1,5 +1,6 @@
 # Object Oriented Programming
 
+Solution: https://replit.com/@LightGamer1/oop-coffee-machine-start#main.py
 - Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects.
 
 - For instance, an object could represent a person with attributes like a name, age, and address and methods such as walking, talking, breathing, and running. 
