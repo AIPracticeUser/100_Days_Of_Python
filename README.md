@@ -70,6 +70,12 @@ Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day
 ## Day 14 - Higher Lower Game
 GitHub Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_14_Higher_Lower_Game
 
+## Day 15 - Coffee Maker Program
+Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_15_Coffee_Maker_Program
+
+## Day 16 - Coffee Maker Program in Object Oriented Programming
+Github Link : 
+
 ## Day 32 - Birthday Emails Sender
 GitHub Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
 
