@@ -74,7 +74,7 @@ GitHub Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day
 Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_15_Coffee_Maker_Program
 
 ## Day 16 - Coffee Maker Program in Object Oriented Programming
-Github Link : 
+Github Link : https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day_16_Object_Oriented_Programming
 
 ## Day 32 - Birthday Emails Sender
 GitHub Link: https://github.com/AIPracticeUser/100_Days_Of_Python/tree/main/Day__32-Automated%20Birthday%20Card%20Email%20Sender
